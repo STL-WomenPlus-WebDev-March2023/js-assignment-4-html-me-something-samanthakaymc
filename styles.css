@@ -31,17 +31,18 @@ img{
     width: 500px;
 }
 
-h2 {
+
+#mainHeading {
     color: red;
     margin-left: 100px;
     margin-right: 500px;
 }
 
-.funParagraph {
-    color: green;
+.lastHeading {
+    color: blue;
 }
 
-#testP {
+.funParagraph {
     background-color: lightblue;
     color: green;
 }
