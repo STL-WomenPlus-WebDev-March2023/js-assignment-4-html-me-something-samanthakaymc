@@ -1,1 +1,48 @@
 /* Write your CSS here! */
+p {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-right: 75px;
+    margin-left: 75px;
+};
+
+
+header {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+};
+
+body {
+    margin: 8px;
+}
+
+h1 {
+    margin-right: 450px;
+    margin-left: 450px;
+    color: rgb(101, 101, 182);
+}
+
+img{
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 650px;
+    width: 500px;
+}
+
+
+.mainHeading {
+    color: red;
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    background-color: lightblue;
+    color: darkslategray;
+}
