@@ -31,8 +31,7 @@ img{
     width: 500px;
 }
 
-
-.mainHeading {
+h1 {
     color: red;
     margin-left: 100px;
     margin-right: 500px;
@@ -44,5 +43,5 @@ img{
 
 #testP {
     background-color: lightblue;
-    color: darkslategray;
+    color: green;
 }
